@@ -1,0 +1,7 @@
+id,label,type,area
+wolf,Gray Wolf,predator,forest
+elk,Elk,herbivore,valley
+willow,Willow Tree,plant,riverbank
+beaver,Beaver,ecosystem_engineer,riverbank
+rabbit,Rabbit,herbivore,grassland
+grass,Grass,plant,grassland

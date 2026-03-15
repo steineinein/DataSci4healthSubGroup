@@ -1,0 +1,7 @@
+node,year,population_index
+wolf,1990,0.1
+wolf,2005,0.8
+elk,1990,0.9
+elk,2005,0.4
+willow,1990,0.3
+willow,2005,0.7

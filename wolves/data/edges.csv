@@ -1,0 +1,6 @@
+source,target,relationship,effect
+wolf,elk,predation,negative
+wolf,rabbit,predation,negative
+elk,willow,grazing,negative
+rabbit,grass,grazing,negative
+willow,beaver,habitat,positive
