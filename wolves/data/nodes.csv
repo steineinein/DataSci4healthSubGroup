@@ -30,6 +30,4 @@ berries,Berries,na,plant
 forest,Forest,na,habitat
 river,River,na,water_body
 soil,Soil,na,ground
-valley,Valley,na,landform
-gorges,Gorges,na,landform
 beaver_dam,Beaver Dam,na,structure
