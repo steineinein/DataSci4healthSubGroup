@@ -1,7 +1,35 @@
-id,label,type,area
-wolf,Gray Wolf,predator,forest
-elk,Elk,herbivore,valley
-willow,Willow Tree,plant,riverbank
-beaver,Beaver,ecosystem_engineer,riverbank
-rabbit,Rabbit,herbivore,grassland
-grass,Grass,plant,grassland
+id,Name,diet,type
+wolf,Gray Wolf,predator,animal
+deer,Deer,herbivore,animal
+calves,Calves,herbivore,animal
+songbird,Songbird,herbivore/predator,animal
+migratory_bird,Migratory Bird,herbivore/predator,animal
+beaver,Beaver,herbivore,animal
+otter,Otter,predator,animal
+muskrat,Muskrat,herbivore,animal
+ducks,Ducks,herbivore,animal
+fish,Fish,predator,animal
+reptiles,Reptiles,herbivore/predator,animal
+amphibians,Amphibians,herbivore/predator,animal
+coyotes,Coyotes,predator,animal
+rabbits,Rabbits,herbivore,animal
+mice,Mice,herbivore,animal
+hawks,Hawks,predator,animal
+weasels,Weasels,predator,animal
+foxes,Foxes,predator,animal
+badgers,Badgers,predator,animal
+ravens,Ravens,predator,animal
+bald_eagles,Bald Eagles,predator,animal
+bears,Bears,predator,animal
+rabbit,Rabbit,herbivore,animal
+grass,Grass,na,plant
+willow,Willow Tree,na,plant
+cottonwood,Cottonwood,na,plant
+aspen,Aspen,na,plant
+berries,Berries,na,plant
+forest,Forest,na,habitat
+river,River,na,water_body
+soil,Soil,na,ground
+valley,Valley,na,landform
+gorges,Gorges,na,landform
+beaver_dam,Beaver Dam,na,structure
